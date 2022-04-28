@@ -1,5 +1,5 @@
 streamlit
-pandas 
+pandas
 matplotlib
 altair 
 vega_datasets
